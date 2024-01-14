@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A personal card for Tanishk Gupta (@tanishk2772)",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanishk2705/npx_card"
+  },
   "scripts": {
     "test": "node index.js"
   },
@@ -25,5 +29,9 @@
     "npx",
     "npx card",
     "business card"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/IshaanAdarsh/npx_card/issues"
+  },
+  "homepage": "https://github.com/tanishk2705/npx_card#readme"
 }
